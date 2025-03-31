@@ -1,2 +1,2 @@
 # thepontorian-quickstart-app
-GitHub quick start app
+GitHub App
